@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar } from 'react-bootstrap';
+import NavbarTop from './components/NavbarTop'
 import './App.css';
 
 function App() {
